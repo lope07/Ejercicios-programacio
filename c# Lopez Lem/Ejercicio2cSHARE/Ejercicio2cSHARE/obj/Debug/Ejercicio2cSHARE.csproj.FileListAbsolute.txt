@@ -1,0 +1,7 @@
+C:\Users\LOPEZ\source\repos\Ejercicio2cSHARE\Ejercicio2cSHARE\bin\Debug\Ejercicio2cSHARE.exe.config
+C:\Users\LOPEZ\source\repos\Ejercicio2cSHARE\Ejercicio2cSHARE\bin\Debug\Ejercicio2cSHARE.exe
+C:\Users\LOPEZ\source\repos\Ejercicio2cSHARE\Ejercicio2cSHARE\bin\Debug\Ejercicio2cSHARE.pdb
+C:\Users\LOPEZ\source\repos\Ejercicio2cSHARE\Ejercicio2cSHARE\obj\Debug\Ejercicio2cSHARE.csproj.AssemblyReference.cache
+C:\Users\LOPEZ\source\repos\Ejercicio2cSHARE\Ejercicio2cSHARE\obj\Debug\Ejercicio2cSHARE.csproj.CoreCompileInputs.cache
+C:\Users\LOPEZ\source\repos\Ejercicio2cSHARE\Ejercicio2cSHARE\obj\Debug\Ejercicio2cSHARE.exe
+C:\Users\LOPEZ\source\repos\Ejercicio2cSHARE\Ejercicio2cSHARE\obj\Debug\Ejercicio2cSHARE.pdb

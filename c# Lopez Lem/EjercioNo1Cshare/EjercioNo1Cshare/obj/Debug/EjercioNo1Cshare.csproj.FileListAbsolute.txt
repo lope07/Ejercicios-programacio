@@ -1,0 +1,7 @@
+C:\Users\LOPEZ\Desktop\EjercioNo1Cshare\EjercioNo1Cshare\bin\Debug\EjercioNo1Cshare.exe.config
+C:\Users\LOPEZ\Desktop\EjercioNo1Cshare\EjercioNo1Cshare\bin\Debug\EjercioNo1Cshare.exe
+C:\Users\LOPEZ\Desktop\EjercioNo1Cshare\EjercioNo1Cshare\bin\Debug\EjercioNo1Cshare.pdb
+C:\Users\LOPEZ\Desktop\EjercioNo1Cshare\EjercioNo1Cshare\obj\Debug\EjercioNo1Cshare.csproj.CoreCompileInputs.cache
+C:\Users\LOPEZ\Desktop\EjercioNo1Cshare\EjercioNo1Cshare\obj\Debug\EjercioNo1Cshare.exe
+C:\Users\LOPEZ\Desktop\EjercioNo1Cshare\EjercioNo1Cshare\obj\Debug\EjercioNo1Cshare.pdb
+C:\Users\LOPEZ\Desktop\EjercioNo1Cshare\EjercioNo1Cshare\obj\Debug\EjercioNo1Cshare.csproj.AssemblyReference.cache
